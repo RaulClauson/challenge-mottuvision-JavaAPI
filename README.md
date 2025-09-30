@@ -23,7 +23,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/LuccasAlencar/CrudJava.git
+git clone https://github.com/RaulClauson/challenge-mottuvision-JavaAPI.git
 cd CrudJava/CrudJava
 ```
 
@@ -290,10 +290,10 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👥 Equipe
 
-| Desenvolvedor  | LinkedIn                                               | GitHub                                               | Email                      |
-| -------------- | ------------------------------------------------------ | ---------------------------------------------------- | -------------------------- |
-| Raul Clauson   | [LinkedIn](https://www.linkedin.com/in/raul-clauson/)  | [@raulclauson](https://github.com/raulclauson)       | raul.clauson@example.com   |
-| Daniel Barros  | [LinkedIn](https://www.linkedin.com/in/danielbarros63) | [@danielbarros63](https://github.com/danielbarros63) | daniel.barros@example.com  |
-| Luccas Alencar | [LinkedIn](https://www.linkedin.com/in/luccasalencar/) | [@luccasalencar](https://github.com/luccasalencar)   | luccas.alencar@example.com |
+| Desenvolvedor  | LinkedIn                                               | GitHub                                               |     |
+| -------------- | ------------------------------------------------------ | ---------------------------------------------------- | --- |
+| Raul Clauson   | [LinkedIn](https://www.linkedin.com/in/raul-clauson/)  | [@raulclauson](https://github.com/raulclauson)       |     |
+| Daniel Barros  | [LinkedIn](https://www.linkedin.com/in/danielbarros63) | [@danielbarros63](https://github.com/danielbarros63) |     |
+| Luccas Alencar | [LinkedIn](https://www.linkedin.com/in/luccasalencar/) | [@luccasalencar](https://github.com/luccasalencar)   |     |
 
 ⭐ **Se este projeto foi útil para você, considere dar uma estrela no repositório!**
