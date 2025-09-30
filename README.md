@@ -24,7 +24,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 ```bash
 git clone https://github.com/RaulClauson/challenge-mottuvision-JavaAPI.git
-cd CrudJava/CrudJava
+cd challenge-mottuvision-JavaAPI
 ```
 
 ### 2. Configure o banco de dados
